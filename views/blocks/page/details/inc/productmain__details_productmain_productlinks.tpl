@@ -1,0 +1,1 @@
+[{include file="rs/deactivate/views/tpl/page/details/inc/productmain__details_productmain_productlinks.tpl"}]

@@ -1,0 +1,1 @@
+[{include file="rs/deactivate/views/tpl/page/account/dashboard__account_dashboard_col1.tpl"}]
