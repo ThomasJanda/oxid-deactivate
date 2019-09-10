@@ -21,7 +21,7 @@ This module was created for Oxid 6.x, Wave Theme.
             }
         },
 
-3. Refresh autoloader files with composer.
+3. Refresh autoloader files with composer in the oxid root directory.
 
         composer dump-autoload
         
